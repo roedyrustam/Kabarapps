@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="rainbow">
+        <item>@color/cat_bubble_1</item>
+        <item>@color/cat_bubble_2</item>
+        <item>@color/cat_bubble_3</item>
+        <item>@color/cat_bubble_4</item>
+        <item>@color/cat_bubble_5</item>
+        <item>@color/cat_bubble_6</item>
+    </array>
+</resources>

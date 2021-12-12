@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="statusBarColor">#FFFFFF</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- ========= Splash Screen ========= -->
+    <color name="splashBGColor">#FFFFFF</color>
+
+    <!-- ========= Dashboard ========= -->
+    <color name="dashboardToolbarBGColor">#FFFFFF</color>
+    <color name="dashboardToolbarTextColor">#47565D</color>
+    <color name="dashboardBGColor">#FFFFFF</color>
+    <color name="dashboardLoaderBGColor">#DFDCDC</color>
+
+    <!-- Navigation Drawer -->
+    <color name="navHeaderBGColor">#FFFFFF</color>
+    <color name="navHeaderTextColor">#47565D</color>
+
+    <!-- ========= Category Page ========= -->
+    <color name="categoryToolbarBGColor">#FFFFFF</color>
+    <color name="categoryToolbarTextColor">#47565D</color>
+    <color name="categoryBGColor">#FFFFFF</color>
+    <color name="categoryLoaderBGColor">#DFDCDC</color>
+
+    <!-- ========= Posts Page ========= -->
+    <color name="postToolbarBGColor">#FFFFFF</color>
+    <color name="postToolbarTextColor">#47565D</color>
+    <color name="postBGColor">#FFFFFF</color>
+    <color name="postLoaderBGColor">#DFDCDC</color>
+
+    <!-- ========= Search Page ========= -->
+    <color name="searchToolbarBGColor">#FFFFFF</color>
+    <color name="searchToolbarTextColor">#47565D</color>
+    <color name="searchBGColor">#FFFFFF</color>
+    <color name="searchLoaderBGColor">#DFDCDC</color>
+
+    <!-- ========= Bookmarks Page ========= -->
+    <color name="bookmarksToolbarBGColor">#FFFFFF</color>
+    <color name="bookmarksToolbarTextColor">#47565D</color>
+    <color name="bookmarksBGColor">#FFFFFF</color>
+    <color name="bookmarksLoaderBGColor">#DFDCDC</color>
+
+    <!-- ========= Article Page ========= -->
+    <color name="articleToolbarBGColor">#FFFFFF</color>
+    <color name="articleToolbarTextColor">#47565D</color>
+    <color name="articleToolbarSubTextColor">#596165</color>
+    <color name="articleBGColor">#FFFFFF</color>
+    <color name="articleLoaderBGColor">#DFDCDC</color>
+    <color name="articleFabBGColor">#E91E63</color>
+    <color name="articleFabIconColor">#FFFFFF</color>
+
+    <!-- ========= Comment Page ========= -->
+    <color name="commentToolbarBGColor">#FFFFFF</color>
+    <color name="commentToolbarTextColor">#47565D</color>
+    <color name="commentBGColor">#FFFFFF</color>
+    <color name="commentLoaderBGColor">#DFDCDC</color>
+    <color name="commentFabBGColor">#E91E63</color>
+    <color name="commentFabIconColor">#FFFFFF</color>
+
+    <!-- ========= Page ========= -->
+    <color name="pageToolbarBGColor">#FFFFFF</color>
+    <color name="pageToolbarTextColor">#47565D</color>
+    <color name="pageBGColor">#FFFFFF</color>
+    <color name="pageLoaderBGColor">#DFDCDC</color>
+
+    <!-- ======== Category Bubble Colors ======= -->
+    <color name="cat_bubble_1">#7692F5</color>
+    <color name="cat_bubble_2">#FF5252</color>
+    <color name="cat_bubble_3">#5A6B96</color>
+    <color name="cat_bubble_4">#DED500</color>
+    <color name="cat_bubble_5">#969696</color>
+    <color name="cat_bubble_6">#3A2EC7</color>
+
+</resources>
